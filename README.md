@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Omron Robotics and Safety Technologies
+- 🔭 I’m currently working on Robotics, Computer vision, Sensor Fusion
+- 💼 Employed at Omron Robotics and Safety Technologies
 - 📫 How to reach me: karthickpn23@gmail.com
 - ⚡ Fun fact: I still use 3x4 keyboard on my phone 😄
 
