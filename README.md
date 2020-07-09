@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I am Karthick
 
 - 🔭 I’m currently working on Robotics, Computer vision, Sensor Fusion
 - 💼 Employed at Omron Robotics and Safety Technologies
