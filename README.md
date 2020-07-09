@@ -1,8 +1,9 @@
 ### Hi there 👋! I am Karthick
 
+💼 Employed at Omron Robotics and Safety Technologies - Software side of Autonomous Mobile Robots.
+
 - 🔭 I’m currently working on Robotics, Computer vision, Sensor Fusion
-- 💼 Employed at Omron Robotics and Safety Technologies
-- 🧐 Interested in learning High Performance Computing
+- 🧐 Interested in learning High Performance Computing, 3D math and Computational Geometry
 - 📫 How to reach me: karthickpn23@gmail.com
 - ⚡ Fun fact: I still use 3x4 keyboard on my phone 😄
 
