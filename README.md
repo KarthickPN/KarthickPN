@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Robotics, Computer vision, Sensor Fusion
 - 💼 Employed at Omron Robotics and Safety Technologies
+- 🧐 Interested in learning High Performance Computing
 - 📫 How to reach me: karthickpn23@gmail.com
 - ⚡ Fun fact: I still use 3x4 keyboard on my phone 😄
 
